@@ -1,3 +1,4 @@
 body {
   margin: 0;
+  --bs-body-bg: hsl(270, 50%, 50%);
 }
